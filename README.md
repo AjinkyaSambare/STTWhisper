@@ -124,7 +124,7 @@ speech_to_text_app/
 ---
 
 ## Screenshots
-![Screenshot 2025-01-30 224207](https://github.com/user-attachments/assets/2bea5459-eb4c-49b0-a660-e0b8d80760af)
+![Screenshot 2025-01-30 224207](https://github.com/user-attachments/assets/f64acad4-acbf-4041-a0be-b0c856c623a1")
 
 ---
 
